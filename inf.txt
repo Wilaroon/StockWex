@@ -1,0 +1,20 @@
+StockWex: Documentación de Inicio y Propósito del Sistema
+1. Introducción y Origen del Proyecto
+StockWex no nace de una idea teórica; nace de la experiencia directa en el campo de trabajo y de la identificación de fallas críticas en los flujos operativos reales de la industria minorista y de distribución (como el sector ferretero).
+Este proyecto representa la convergencia entre la experiencia laboral directa y la madurez técnica adquirida tras años de preparación académica y desarrollo independiente.
+2. El Problema (La Necesidad del Mercado)
+Durante mi trayectoria laboral previa, experimenté de primera mano las severas consecuencias de operar un negocio sin un control de inventario centralizado, en tiempo real y robusto. Entre las problemáticas más críticas vividas en el día a día se destacan:
+Pérdida de Ventas y Comisiones: Fricciones financieras donde productos facturados no se encontraban físicamente en existencia, impactando directamente las cuentas y la compensación del equipo de ventas.
+Quiebres de Stock Invisibles: Inexistencia de alertas de stock mínimo, permitiendo la venta de artículos agotados.
+Impacto en la Experiencia del Cliente: Generación de disgustos, pérdida de confianza del consumidor y tiempos muertos en la gestión de reclamos o devoluciones.
+Fallas de Cálculo Contable: Descuadres sistemáticos entre el inventario lógico del sistema y el inventario físico en bodega.
+3. Visión y Propósito Técnico
+StockWex ha sido diseñado desde sus cimientos bajo una arquitectura de bases de datos relacionales estricta (utilizando restricciones de llaves foráneas, tablas maestras y control de estados lógicos). El objetivo es resolver de raíz los problemas mencionados mediante un sistema que garantice la integridad referencial y la escalabilidad.
+Este sistema es la recopilación consolidada de años de estudio en la Licenciatura en Informática (Sistemas y Programación), combinada con la experiencia práctica adquirida en proyectos de escala menor, desarrollo freelance y entornos de experimentación personal.
+
+4. Un Hito Profesional (El "Antes y Después")
+Este proyecto marca un punto de inflexión definitivo en mi carrera como profesional de la tecnología. Representa la culminación de mi etapa universitaria y el inicio de mi trayectoria como ingeniero de software enfocado en soluciones empresariales robustas.
+StockWex es la prueba de concepto viva de que un sistema de software puede ser limpio en su código, óptimo en su base de datos y transformador para la operación de un negocio real.
+"Espero que el desarrollo de este sistema sea de su agrado. A través de esta documentación, los invito a observar el paso a paso, la evolución técnica y la madurez de una estructura diseñada para perdurar y escalar."
+— Wilfredo Aaron Whitaker, Creador de StockWex.
+
